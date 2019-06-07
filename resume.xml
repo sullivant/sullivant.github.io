@@ -16,12 +16,16 @@
 	</demographics>
 	<keywords>
 		<technologies title="Technologies">
-            <tag>xml</tag>
-            <tag>xsl</tag>
-			<tag>css</tag>
-			<tag>jquery</tag>
-            <tag>moment.js</tag>
-            <tag>materialize</tag>
+            <tag>linux</tag>
+            <tag>windows</tag>
+			<tag>ETL</tag>
+            <tag>warehouses</tag>
+            <tag>bash</tag>
+			<tag>perl</tag>
+			<tag>java</tag>
+            <tag>ruby</tag>
+            <tag>sql (ms, my*, oracle)</tag>
+            <tag>IBM Netezza</tag>
 		</technologies>
 	</keywords>
     <experience>

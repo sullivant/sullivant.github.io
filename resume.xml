@@ -20,6 +20,8 @@
             <tag>windows</tag>
 			<tag>git</tag>
 			<tag>ETL</tag>
+            <tag>Informatica Products</tag>
+            <tag>Informatica Powercenter</tag>
             <tag>pipelines</tag>
             <tag>warehouses</tag>
             <tag>OMOP</tag>
@@ -73,14 +75,14 @@
             </role>
         </company>
         <company>
-			<name>Omni Consumer Products</name>
-			<link>https://example.com</link>
-			<icon>./icons/dartmouth-hitchcock.png</icon>
+			<name>Hartford Healthcare Corporation</name>
+			<link>https://hhchealth.org</link>
+			<icon>./icons/resuml.svg</icon>
             <role>
-                <title>Executive Chair to Keyboard Interface Specialist</title>
+                <title>Application Architect</title>
                 <tenure>
-                    <start>2014-10-01</start>
-                    <end>2019-04-10</end>
+                    <start>2016-06-01</start>
+                    <end>2016-10-09</end>
                 </tenure>
                 <tags>
                     <tag>c#</tag>
@@ -113,25 +115,10 @@
                 </details>
             </role>
             <role>
-                <title>Chair to Keyboard Interface Specialist</title>
+                <title>Senior Programmer / Analyst</title>
                 <tenure>
-                    <start>2013-10-01</start>
-                    <end>2014-10-15</end>
-                </tenure>
-                <tags>
-                    <tag>things</tag>
-                </tags>
-                <description>
-                    Do all the things
-                </description>
-                <details>
-                </details>
-            </role>
-            <role>
-                <title>Junior Chair to Keyboard Interface Specialist</title>
-                <tenure>
-                    <start>2012-09-01</start>
-                    <end>2013-10-15</end>
+                    <start>2007-02-01</start>
+                    <end>2016-06-01</end>
                 </tenure>
                 <tags>
                     <tag>things</tag>
@@ -144,9 +131,9 @@
             </role>
         </company>
         <company>
-            <name>NOVA Robotics</name>
-            <link>https://example.com</link>
-            <icon>./icons/dartmouth-hitchcock.png</icon>
+            <name>Magnatech LLC</name>
+            <link>https://magnatechllc.com</link>
+			<icon>./icons/resuml.svg</icon>
             <role>
                 <title>Hacker in Residence</title>
                 <tenure>

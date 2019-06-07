@@ -22,6 +22,8 @@
 			<tag>ETL</tag>
             <tag>pipelines</tag>
             <tag>warehouses</tag>
+            <tag>OMOP</tag>
+            <tag>EPIC</tag>
             <tag>bash</tag>
 			<tag>perl</tag>
 			<tag>java</tag>
@@ -34,34 +36,38 @@
 	</keywords>
     <experience>
         <company>
-			<name>Resume Markup Language</name>
-			<link>https://github.com/resuml/resuml.github.io</link>
+			<name>Vanderbilt University Medical Center</name>
+			<link>https://vumc.org</link>
 			<icon>./icons/resuml.svg</icon>
             <role>
-                <title>Sr. Principle Imagineer</title>
+                <title>Application Developer</title>
                 <tenure>
-                    <start>2019-04-10</start>
+                    <start>2016-10-10</start>
                 </tenure>
                 <tags>
-                    <tag>xml</tag>
-                    <tag>xsl</tag>
-                    <tag>css</tag>
-                    <tag>jquery</tag>
-                    <tag>moment.js</tag>
-                    <tag>materialize</tag>
+                    <tag>linux</tag>
+                    <tag>git</tag>
+                    <tag>ETL</tag>
+                    <tag>Warehouses</tag>
+                    <tag>OMOP</tag>
+                    <tag>EPIC</tag>
+                    <tag>pipelines</tag>
+                    <tag>bash</tag>
+                    <tag>sql</tag>
+                    <tag>IBM Netezza</tag>
                 </tags>
                 <description>
-                    Design and develop applications in support of the Vanderbilt Institute for Clinical and Translational Research. Our goal is to transform the way ideas and research discoveries make their way from origin to patient care by simplifying process and making it easier for researchers and patients to focus on what is important.
+                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
                 </description>
                 <details>
                     <detail>
-                        Lead developer on TrialsToday.org, an application to facilitate the discovery of clinical trials by volunteers. Enhanced application to be multi-tenant and provide results localized to those tenants based on institutional rules.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                     </detail>
                     <detail>
-                        Repurposed TrialsToday.org data to build the Competing Trials Tool which allows VICTR to offer a rapid service to help investigators discover clinical trials which may be competing for volunteers in their area.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                     </detail>
                     <detail>
-                        Developed message queuing and logging bundle to handle templating and batch sending of emails, as well as recovery in the event of gateway failure.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                     </detail>
                 </details>
             </role>
@@ -353,10 +359,5 @@
 			<link>https://github.com/resuml/resuml.github.io</link>
 			<icon>https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png</icon>
 		</credit>
-        <credit>
-            <title>This Person Does Not Exist</title>
-            <link>https://thispersondoesnotexist.com</link>
-            <icon>./icons/snapped.png</icon>
-        </credit>
 	</credits>
 </resume>

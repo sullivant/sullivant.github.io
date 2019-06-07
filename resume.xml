@@ -18,7 +18,9 @@
 		<technologies title="Technologies">
             <tag>linux</tag>
             <tag>windows</tag>
+			<tag>git</tag>
 			<tag>ETL</tag>
+            <tag>pipelines</tag>
             <tag>warehouses</tag>
             <tag>bash</tag>
 			<tag>perl</tag>
@@ -26,6 +28,8 @@
             <tag>ruby</tag>
             <tag>sql (ms, my*, oracle)</tag>
             <tag>IBM Netezza</tag>
+            <tag>motion control</tag>
+            <tag>pipelines</tag>
 		</technologies>
 	</keywords>
     <experience>

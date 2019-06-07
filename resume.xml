@@ -6,11 +6,10 @@
 		<title>Software Developer</title>
 		<address>Nashville, TN, United States</address>
 		<link>https://sullivanscientific.com</link>
-		<link>https://thomaslaneart.com</link>
 		<icon>./icons/resumlx.png</icon>
-		<email>anon.nemo@example.com</email>
+		<email>sullivan.t@gmail.com</email>
 		<crypto>
-			<fingerprint>1A2B 3000 132E 01D0</fingerprint>
+			<fingerprint>EAB1 5D7C 7D16 EDB5</fingerprint>
 			<key>https://en.wikipedia.org/wiki/GNU_Privacy_Guard</key>
 		</crypto>
         <picture>https://sullivanscientific.com/images/bird-small.jpg</picture>

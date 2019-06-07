@@ -1,0 +1,65 @@
+@media print {
+	.no-print, .modal, .modal-overlay, #print, #demographics a.public-key, #picture, #credits{
+		display: none !important;
+	}
+
+	body{
+		margin: 0;
+		font-size: 10px;
+		line-height: inherit;
+  		filter: grayscale(100%);
+		-webkit-filter: grayscale(100%);
+
+		overflow: inherit !important;
+	}
+
+	.container{
+		width: 100%;
+	}
+
+	.container>.row>.col{
+		margin: 0 2%;
+		width: 96%;
+	}
+
+	.row{
+		margin-bottom: 5px;
+	}
+
+	.section{
+		padding: 2px 0;
+		margin-bottom: 5px;
+	}
+
+	.icon img{
+		margin-top: 5px;
+		max-width: 32px;
+	}
+
+	#demographics{
+		margin-bottom: 20px;
+		min-height: 10%;
+	}
+
+	#contact{
+		position: absolute;
+		top: 0; right: 0;
+	}
+
+	#contact p{
+		margin: 0;
+		font-size: 0.75rem;
+	}
+
+	#keywords{
+		margin-bottom: 10px;
+	}
+
+    #experience .roles .role:not(:last-child):before{
+        display: none;
+    }
+
+    #experience .roles .role .title:before{
+        display: none;
+    }
+}

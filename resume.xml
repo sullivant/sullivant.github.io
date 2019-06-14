@@ -5,14 +5,14 @@
 		<name>Thomas Sullivan</name>
 		<title>Software Developer</title>
 		<address>Nashville, TN, United States</address>
-		<link>https://sullivanscientific.com</link>
+        <link>https://sullivant.github.io/resume.xml</link>
 		<icon>./icons/resumlx.png</icon>
 		<email>sullivan.t@gmail.com</email>
 		<crypto>
 			<fingerprint>EAB1 5D7C 7D16 EDB5</fingerprint>
             <key>https://keybase.io/thomassullivan/pgp_keys.asc?fingerprint=8d0b70ad4e0aa51c418dc1b9eab15d7c7d16edb5</key>
 		</crypto>
-        <picture>https://sullivanscientific.com/images/bird-small.jpg</picture>
+        <picture>https://sullivant.github.io/images/bird-small.jpg</picture>
 	</demographics>
 	<keywords>
 		<technologies title="Technologies">
@@ -26,10 +26,13 @@
             <tag>warehouses</tag>
             <tag>OMOP</tag>
             <tag>EPIC</tag>
+            <tag>Clarity</tag>
+            <tag>Hyperspace</tag>
             <tag>bash</tag>
 			<tag>perl</tag>
 			<tag>java</tag>
             <tag>ruby</tag>
+            <tag>rust</tag>
             <tag>sql (ms, my*, oracle)</tag>
             <tag>IBM Netezza</tag>
             <tag>motion control</tag>
@@ -55,8 +58,12 @@
                     <tag>EPIC</tag>
                     <tag>pipelines</tag>
                     <tag>bash</tag>
+                    <tag>rust</tag>
                     <tag>sql</tag>
                     <tag>IBM Netezza</tag>
+                    <tag>EPIC</tag>
+                    <tag>Clarity</tag>
+                    <tag>Hyperspace</tag>
                 </tags>
                 <description>
                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
@@ -85,32 +92,35 @@
                     <end>2016-10-09</end>
                 </tenure>
                 <tags>
-                    <tag>c#</tag>
-                    <tag>sql-server</tag>
-                    <tag>php</tag>
-                    <tag>xml</tag>
-                    <tag>jquery</tag>
-                    <tag>tfs</tag>
+                    <tag>Informatica</tag>
+                    <tag>PowerCenter</tag>
+                    <tag>linux</tag>
                     <tag>git</tag>
-                    <tag>ge-healthcare-systems</tag>
-                    <tag>epic-healthcare-systems</tag>
-                    <tag>mumps</tag>
+                    <tag>ETL</tag>
+                    <tag>Warehouses</tag>
+                    <tag>sql-server</tag>
+                    <tag>oracle</tag>
+                    <tag>Sybase Transact SQL</tag>
+                    <tag>git</tag>
+                    <tag>EPIC</tag>
+                    <tag>Clarity</tag>
+                    <tag>Hyperspace</tag>
                 </tags>
                 <description>
-                    Develop, implement, upgrade and enhance new and existing web based systems at all levels of the stack (including front-end JS/HTML/CSS, server-side .NET/PHP, and database schema and proc development) and maintain the web infrastructure for Dartmouth-Hitchcock, an academic medical center. Interact with customers to understand scope and develop requirements. Serve as a mentor and technical resource for junior engineers in understanding and problem solving.
+                    Researched, developed, implemented, and supported large scale (10,000+ employee) ERP and medical interface systems. These projects involved multi-year timelines as well as integration with many different enterprise teams. Attended training for application and system level educational opportunities such as, EPIC Clarity Database, Informatica Administration and PowerCenter developer. 
                 </description>
                 <details>
                     <detail>
-                        Lead engineer on Legion, a C#-based homegrown Web Services API Rapid-Development Framework, which powers the new web infrastructure at Dartmouth-Hitchcock. Created various services leveraging this framework to support the development of mission-critical applications. Also developed services to provide centralized integration for applications to third party systems and APIs including: Twilio, AtTask, CECity, and Exchange.
+                        Was lead architect on design of our legacy-to-new data migration needs (SmartStream to PeopleSoft). Designed and implemented an ETL driven, autonomous data collection process which allows for the creation of multiple data-marts that serve customer needs from finance to HR. This project required an understanding of customer needs, usage cases and histories, as well as an ability to imagine what the future business needs will be. 
                     </detail>
                     <detail>
-                        Co-lead engineer on myD-H v3.0, a patient portal application. Version 3.0 involved redesigning the application to move away from a monolithic design style to a microservices style. Primary responsibilities included architectural design of core libraries and web services integration, as well as the design and implementation of several new supporting services such as messaging and SSO.
+                        Included as key resource on the integration and interface portion of the EPIC migration project. This involved the creation of a framework of EPIC-to-Vendor connections through a Master File Transfer process that utilizes our B2B system. From creation of a file framework that allows for transfer of any type of necessary file to the logging, reporting, and notification systems, I was able to work on a team of peers to create a system-wide process and hand it off to the implementation teams. It is a critical portion of the EPIC healthcare system here at Hartford Healthcare.
                     </detail>
                     <detail>
-                        Designed and implemented a Windows services management platform to allow rapid development, centralized management, and deployment of services across the entire web infrastructure.
+                        Continued development and life-cycle management of the intranet framework. Collaborated as a part of the non-clinical revenue cycle team developing top of the line interconnected and distributed systems. Using many languages such as Java, Perl, Ruby, SQL, (Oracle, Microsoft,and Sybase) as well as ETL systems such as Informatica (Developer II training included) to interface and provide data, metrics, and predictions to the business cycle teams. 
                     </detail>
                     <detail>
-                        Designed and implemented a web application to replace paper emergency equipment inventory system which has subsequently increased Dartmouth-Hitchcock's JCAHO compliance from &lt;50% to 99.9%.
+                        Experience with "man in the middle" data migrations, interfaces, as well as solution generation/problem solving in patient critical systems.
                     </detail>
                 </details>
             </role>

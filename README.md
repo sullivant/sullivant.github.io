@@ -1,1 +1,1 @@
-# resuml.github.io
+# Thomas Sullivan

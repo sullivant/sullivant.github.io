@@ -16,12 +16,11 @@
 	</demographics>
 	<keywords>
 		<technologies title="Technologies">
-            <tag>linux</tag>
+            <tag>Linux</tag>
             <tag>windows</tag>
 			<tag>git</tag>
 			<tag>ETL</tag>
             <tag>Informatica Products</tag>
-            <tag>Informatica Powercenter</tag>
             <tag>pipelines</tag>
             <tag>warehouses</tag>
             <tag>OMOP</tag>
@@ -35,15 +34,15 @@
             <tag>rust</tag>
             <tag>sql (ms, my*, oracle)</tag>
             <tag>IBM Netezza</tag>
-            <tag>motion control</tag>
             <tag>pipelines</tag>
+            <tag>"Big" data</tag>
 		</technologies>
 	</keywords>
     <experience>
         <company>
 			<name>Vanderbilt University Medical Center</name>
 			<link>https://vumc.org</link>
-			<icon>./icons/resuml.svg</icon>
+			<icon>./icons/victr.gif</icon>
             <role>
                 <title>Application Developer</title>
                 <tenure>
@@ -54,12 +53,11 @@
                     <tag>git</tag>
                     <tag>ETL</tag>
                     <tag>Warehouses</tag>
+                    <tag>ETL</tag>
                     <tag>OMOP</tag>
                     <tag>EPIC</tag>
-                    <tag>pipelines</tag>
-                    <tag>bash</tag>
-                    <tag>rust</tag>
-                    <tag>sql</tag>
+                    <tag>Bash</tag>
+                    <tag>SQL</tag>
                     <tag>IBM Netezza</tag>
                     <tag>EPIC</tag>
                     <tag>Clarity</tag>
@@ -84,7 +82,7 @@
         <company>
 			<name>Hartford Healthcare Corporation</name>
 			<link>https://hhchealth.org</link>
-			<icon>./icons/resuml.svg</icon>
+			<icon>./icons/hhc.jpg</icon>
             <role>
                 <title>Application Architect</title>
                 <tenure>
@@ -116,12 +114,6 @@
                     <detail>
                         Included as key resource on the integration and interface portion of the EPIC migration project. This involved the creation of a framework of EPIC-to-Vendor connections through a Master File Transfer process that utilizes our B2B system. From creation of a file framework that allows for transfer of any type of necessary file to the logging, reporting, and notification systems, I was able to work on a team of peers to create a system-wide process and hand it off to the implementation teams. It is a critical portion of the EPIC healthcare system here at Hartford Healthcare.
                     </detail>
-                    <detail>
-                        Continued development and life-cycle management of the intranet framework. Collaborated as a part of the non-clinical revenue cycle team developing top of the line interconnected and distributed systems. Using many languages such as Java, Perl, Ruby, SQL, (Oracle, Microsoft,and Sybase) as well as ETL systems such as Informatica (Developer II training included) to interface and provide data, metrics, and predictions to the business cycle teams. 
-                    </detail>
-                    <detail>
-                        Experience with "man in the middle" data migrations, interfaces, as well as solution generation/problem solving in patient critical systems.
-                    </detail>
                 </details>
             </role>
             <role>
@@ -131,12 +123,25 @@
                     <end>2016-06-01</end>
                 </tenure>
                 <tags>
-                    <tag>things</tag>
+                    <tag>SmartStream</tag>
+                    <tag>Kronos</tag>
+                    <tag>PERL</tag>
+                    <tag>Bash</tag>
+                    <tag>Linux</tag>
+                    <tag>SQL Server</tag>
+                    <tag>Sybase</tag>
+                    <tag>Java</tag>
                 </tags>
                 <description>
-                    Do all the things
+                    Designed, supported, and implemented large scale EDW and Payroll/Financial warehouse systems and pipelines.  These projects provided analytical data and interfaces to the finance, payroll, and HR departments to be used in support of the business needs.  Included in these systems were support of Kronos, SmartStream, and homegrown timecard/payroll applications and databases.
                 </description>
                 <details>
+                    <detail>
+                        Continued development and life-cycle management of the intranet framework. Collaborated as a part of the non-clinical revenue cycle team developing top of the line interconnected and distributed systems. Using many languages such as Java, Perl, Ruby, SQL, (Oracle, Microsoft,and Sybase) as well as ETL systems such as Informatica (Developer II training included) to interface and provide data, metrics, and predictions to the business cycle teams. 
+                    </detail>
+                    <detail>
+                        Experience with "man in the middle" data migrations, interfaces, as well as solution generation/problem solving in patient critical systems.
+                    </detail>
                 </details>
             </role>
         </company>
@@ -151,7 +156,13 @@
                     <end>2007-02-01</end>
                 </tenure>
                 <tags>
-                    <tag>TODO</tag>
+                    <tag>C++</tag>
+                    <tag>Bash</tag>
+                    <tag>PERL</tag>
+                    <tag>Embedded devices</tag>
+                    <tag>Motion Control</tag>
+                    <tag>Networking</tag>
+                    <tag>Server administration</tag>
                 </tags>
                 <description>
                     Embedded motion control software development on systems utilized in harsh tube/pipe welding environments, network administration. Development in a team environment, including rabbit micro-controllers, hardware control with embedded systems, and user interface programming.
@@ -169,7 +180,12 @@
                     <end>2004</end>
                 </tenure>
                 <tags>
-                    <tag>TODO</tag>
+                    <tag>Bash</tag>
+                    <tag>PERL</tag>
+                    <tag>Java</tag>
+                    <tag>Apache</tag>
+                    <tag>Linux</tag>
+                    <tag>SQL Server</tag>
                 </tags>
                 <description>
                     Network troubleshooting, support, and maintenance. Internet Service Provider customer support.
@@ -187,7 +203,13 @@
                     <end>2003</end>
                 </tenure>
                 <tags>
-                    <tag>TODO</tag>
+                    <tag>PERL</tag>
+                    <tag>SQL</tag>
+                    <tag>Linux</tag>
+                    <tag>Bash</tag>
+                    <tag>Apache</tag>
+                    <tag>mod_perl</tag>
+                    <tag>Java</tag>
                 </tags>
                 <description>
                     Generated a system wide (5000+ user) intranet report delivery subsystem/framework, used into the present date. Collaborated as a part of the non-clinical revenue cycle team developing top of the line interconnected and distributed systems. Using many languages such as Java, Perl, Ruby, SQL, (Microsoft and Sybase) as well as ETL sytems such as Informatica (Developer II training included) to interface and provide data, metrics, and predictions to the business cycle teams.

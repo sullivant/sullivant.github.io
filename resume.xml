@@ -220,9 +220,6 @@
 	<projects>
 		<project>
 			<name>Winsted Volunteer Fire Department</name>
-            <tenure>
-                <start>12-05-2005</start>
-                <end>10-01-2016</start>
 			<link>https://www.winstedfire.org</link>
 			<tags>
 				<tag>firefighting</tag>

@@ -219,19 +219,24 @@
 	</experience>
 	<projects>
 		<project>
-			<name>TODO</name>
-			<date>2017-08-08</date>
-			<link>https://www.trialstoday.org</link>
+			<name>Winsted Volunteer Fire Department</name>
+            <tenure>
+                <start>12-05-2005</start>
+                <end>10-01-2016</start>
+			<link>https://www.winstedfire.org</link>
 			<tags>
-				<tag>php</tag>
-				<tag>symfony</tag>
-				<tag>elasticsearch</tag>
+				<tag>firefighting</tag>
+				<tag>officer</tag>
+                <tag>search & rescue</tag>
+                <tag>fire suppression</tag>
+                <tag>safety</tag>
+                <tag>community</tag>
 			</tags>
 			<description>
-				Thousands of organizations across the country are looking for people like you to take part in research studies. Whether you are looking for treatment, or want to help out with research that will improve treatment, diagnosis, and prevention, there are studies that need you!
+				TODO
 			</description>
 			<contribution>
-				We made a quick way to search the thousands of studies available on ClinicalTrials.gov. By answering a few short questions, we can help you find a list of studies that may interest you.
+				TODO
 			</contribution>
 		</project>
 	</projects>

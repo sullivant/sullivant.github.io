@@ -148,7 +148,7 @@
         <company>
             <name>Magnatech LLC</name>
             <link>https://magnatechllc.com</link>
-			<icon>./icons/resuml.svg</icon>
+			<icon>./icons/mlp.png</icon>
             <role>
                 <title>Software Engineer</title>
                 <tenure>
@@ -172,7 +172,7 @@
         <company>
 			<name>MCM Systems</name>
             <link>https://www.mcmsystems.net/</link>
-			<icon>./icons/resuml.svg</icon>
+			<icon>./icons/mcm.gif</icon>
             <role>
                 <title>Network Engineer</title>
                 <tenure>
@@ -195,7 +195,7 @@
         <company>
 			<name>Hartford Hospital</name>
 			<link>https://www.hhchealth.org</link>
-			<icon>./icons/resum.svg</icon>
+			<icon>./icons/hhc.jpg</icon>
             <role>
                 <title>Senior Programmer / Analyst</title>
                 <tenure>

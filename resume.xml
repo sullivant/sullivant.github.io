@@ -217,26 +217,6 @@
             </role>
         </company>
 	</experience>
-	<projects>
-		<project>
-			<name>Winsted Volunteer Fire Department</name>
-			<link>https://www.winstedfire.org</link>
-			<tags>
-				<tag>firefighting</tag>
-				<tag>officer</tag>
-                <tag>search & rescue</tag>
-                <tag>fire suppression</tag>
-                <tag>safety</tag>
-                <tag>community</tag>
-			</tags>
-			<description>
-				TODO
-			</description>
-			<contribution>
-				TODO
-			</contribution>
-		</project>
-	</projects>
 	<credits>
 		<credit>
 			<title>May the source be with you</title>

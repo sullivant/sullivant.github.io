@@ -72,15 +72,6 @@
                     <detail>
                         Key developer in project mangement lead requests for eccentric and specific data "ETL" (Extract Transform Load) requests.  This often involves discussing and fully understanding source data systems, how they are accessed, translated, and will work with our target database schema (OMOP).   Always eager to learn new and intersting methods for improving both technical systems, but also the potential for process/workflow improvement at the employee level.  No stranger to visting departments and labs to better understand how the "machine" works.  
                     </detail>
-                    <detail>
-                        Instrumental in the decision and implementation to source warehouse data from the newly installed EPIC Healthcare system (Clarity).  This required working with teams across the organization to understand how EPIC would be configured and how we, as a team, would have to react to these changes in order to maintain our steam stream of healthcare data to support research needs.  This included writing an application (Java) to extract needed tables from EPIC's Clarity database, shape the data, and load into our target Netezza system.  This process included attention to the speed at which we could extract data, with the final result being a multi-threaded Spring Boot java application, pipeline changes on the Linux servers, and working with a front-end team to design a dashboard to provide day-to-day system statistics. 
-                    </detail>
-					<detail>
-						Directly collaborate with product management and engineering/development team members to prioritize requests into the Assembla ticketing workflow via an impact assessment.
-					</detail>
-					<detail>
-						Conduct sprint forecasting assessment in order to appropriately develop actionable and achievable project schedules.
-					</detail>
                 </details>
             </role>
         </company>

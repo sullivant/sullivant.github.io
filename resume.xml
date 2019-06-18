@@ -63,17 +63,17 @@
                     <tag>Hyperspace</tag>
                 </tags>
                 <description>
-                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+                  Software application developer on a large scale translational research focused team, the Vanderbilt Institute for Clinical and Translational Research (VICTR).  This team is supported by the NIH, grants, and CTSA awards and provides data to research scientists in a multi-faceted approach.  Some of the tools produced by our team include the "BioVU" databank containing de-identified DNA information, healthcare data warehouses driven by clinical systems such as EPIC and Star, and user facing applications to help support principal investigators in the creation of grant funded research. 
                 </description>
                 <details>
                     <detail>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        Developed, maintained, and fine-tuned a large scale IBM Netezza database system that holds 60+ Tb of medical data in both identified and de-identified forms.  Work on this system involes attention to detail as the pipeline systems are designed to gather data from disparate source healthcare databases, files, and extracts and then normalize it into forms usable by the researchers and employees who generate phenotype/genotype cohorts.
                     </detail>
                     <detail>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                        Key developer in project mangement lead requests for eccentric and specific data "ETL" (Extract Transform Load) requests.  This often involves discussing and fully understanding source data systems, how they are accessed, translated, and will work with our target database schema (OMOP).   Always eager to learn new and intersting methods for improving both technical systems, but also the potential for process/workflow improvement at the employee level.  No stranger to visting departments and labs to better understand how the "machine" works.  
                     </detail>
                     <detail>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                        Instrumental in the decision and implementation to source warehouse data from the newly installed EPIC Healthcare system (Clarity).  This required working with teams across the organization to understand how EPIC would be configured and how we, as a team, would have to react to these changes in order to maintain our steam stream of healthcare data to support research needs.  This included writing an application (Java) to extract needed tables from EPIC's Clarity database, shape the data, and load into our target Netezza system.  This process included attention to the speed at which we could extract data, with the final result being a multi-threaded Spring Boot java application, pipeline changes on the Linux servers, and working with a front-end team to design a dashboard to provide day-to-day system statistics. 
                     </detail>
                 </details>
             </role>

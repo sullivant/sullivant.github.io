@@ -216,6 +216,28 @@
             </role>
         </company>
 	</experience>
+    <projects>
+		<project>
+            <name>VICTR - BioVU & Synthetic Deriverative</name>
+			<date>2017-11-07</date>
+			<link>https://victr.vanderbilt.edu/pub/biovu/</link>
+			<icon>./icons/victr.gif</icon>
+			<tags>
+				<tag>Bash</tag>
+				<tag>Java</tag>
+				<tag>Linux</tag>
+				<tag>Netezza</tag>
+				<tag>ETL</tag>
+				<tag>Research</tag>
+			</tags>
+			<description>
+				BioVU is Vanderbilt's collection, or “bank,” of de-identified DNA samples. DNA is found in all of your cells and is what carries information from parents to children. Specific sections of DNA, called genes, control certain traits (like eye color) or may be involved in certain diseases. Researchers are using these samples to study the links between genes and disease and between genes and how a patient might respond to a prescribed medication. 
+			</description>
+			<contribution>
+				Designed and contributed to the implementation of a methodology to include EPIC's healthcare data as a source for the systems used to support the BioVU databank.  This included sourcing data from Clarity in a fashion that would allow for continued ingestion of patient data and demographics after the cutover from Star (legacy) to EPIC.
+			</contribution>
+		</project>
+    </projects>
 	<credits>
 		<credit>
 			<title>May the source be with you</title>

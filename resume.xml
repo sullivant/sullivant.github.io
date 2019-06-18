@@ -221,6 +221,34 @@
                 </description>
             </role>
         </company>
+        <company>
+            <name>Winsted Volunteer Fire Department</name>
+            <link>http://winstedfire.org</link>
+            <icon>./icons/resuml.svg</icon>
+            <role>
+                <title>Firefighter / Lieutenant</title>
+                <tenure>
+                    <start>2005-12-01</start>
+                    <end>2016-10-01</end>
+                </tenure>
+                <tags>
+                </tags>
+                <description>
+                    Winsted Fire is a ISO Class 4 volunteer firefighting department that operates in the city of Winsted, Connecicut.  It has operated since the year 1862 and continues to provide fire suppression, rescue, emergency, and training services to the town and its surrounding area.
+                </description>
+                <details>
+                    <detail> 
+                        Served on the Winsted Volunteer Fire Department as both a firefighter and lieutenant officer between the years of 2005 and 2016.  		
+                    </detail>
+                    <detail>
+                        Treasurer of the Aerial Ladder (tower) Company
+                    </detail>
+                    <detail>
+                        Was lead person in charge of the "Junior" firefighter program, a Boy Scouts of America (BSA) provided service that allows children aged 14-17 to join and train as exterior firefighters, giving them valulable community service skills as well as an understanding of safety.  Many of these children have progressed to become full adult members of the department as well as paid full-time city departments in the area.    
+                    </detail>
+                </details>
+            </role>
+        </company>
 	</experience>
     <projects>
 		<project>
@@ -243,29 +271,7 @@
 				Designed and contributed to the implementation of a methodology to include EPIC's healthcare data as a source for the systems used to support the BioVU databank.  This included sourcing data from Clarity in a fashion that would allow for continued ingestion of patient data and demographics after the cutover from Star (legacy) to EPIC.
 			</contribution>
 		</project>
-		<project>
-            <name>Winsted Volunteer Fire Department</name>
-			<date>2005-12-01</date>
-			<link>http://winstedfire.org</link>
-			<icon>./icons/resuml.svg</icon>
-			<tags>
-				<tag>Firefighting</tag>
-				<tag>Community service</tag>
-				<tag>Search and rescue</tag>
-				<tag>10+ years of service</tag>
-				<tag>Safety</tag>
-				<tag>Ladder Company: Lieutenant</tag>
-			</tags>
-			<description>
-				Winsted Fire is a ISO Class 4 volunteer firefighting department that operates in the city of Winsted, Connecicut.  It has operated since the year 1862 and continues to provide fire suppression, rescue, emergency, and training services to the town and its surrounding area.
-                    
-                Served on the Winsted Volunteer Fire Department as both a firefighter and lieutenant officer between the years of 2005 and 2016.  		
-                Treasurer of the Aerial Ladder (tower) Company
-                Was lead person in charge of the "Junior" firefighter program, a Boy Scouts of America (BSA) provided service that allows children aged 14-17 to join and train as exterior firefighters, giving them valulable community service skills as well as an understanding of safety.  Many of these children have progressed to become full adult members of the department as well as paid full-time city departments in the area.    
-			</description>
-		</project>
     </projects>
- 
 	<credits>
 		<credit>
 			<title>May the source be with you</title>

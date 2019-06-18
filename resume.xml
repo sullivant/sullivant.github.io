@@ -75,6 +75,12 @@
                     <detail>
                         Instrumental in the decision and implementation to source warehouse data from the newly installed EPIC Healthcare system (Clarity).  This required working with teams across the organization to understand how EPIC would be configured and how we, as a team, would have to react to these changes in order to maintain our steam stream of healthcare data to support research needs.  This included writing an application (Java) to extract needed tables from EPIC's Clarity database, shape the data, and load into our target Netezza system.  This process included attention to the speed at which we could extract data, with the final result being a multi-threaded Spring Boot java application, pipeline changes on the Linux servers, and working with a front-end team to design a dashboard to provide day-to-day system statistics. 
                     </detail>
+					<detail>
+						Directly collaborate with product management and engineering/development team members to prioritize requests into the Assembla ticketing workflow via an impact assessment.
+					</detail>
+					<detail>
+						Conduct sprint forecasting assessment in order to appropriately develop actionable and achievable project schedules.
+					</detail>
                 </details>
             </role>
         </company>
@@ -237,7 +243,34 @@
 				Designed and contributed to the implementation of a methodology to include EPIC's healthcare data as a source for the systems used to support the BioVU databank.  This included sourcing data from Clarity in a fashion that would allow for continued ingestion of patient data and demographics after the cutover from Star (legacy) to EPIC.
 			</contribution>
 		</project>
+		<project>
+            <name>Winsted Volunteer Fire Department</name>
+			<date>2005-12-01</date>
+			<link>http://winstedfire.org</link>
+			<icon>./icons/resuml.svg</icon>
+			<tags>
+				<tag>Firefighting</tag>
+				<tag>Community service</tag>
+				<tag>Search and rescue</tag>
+				<tag>10+ years of service</tag>
+				<tag>Safety</tag>
+				<tag>Ladder Company: Lieutenant</tag>
+			</tags>
+			<description>
+				Winsted Fire is a ISO Class 4 volunteer firefighting department that operates in the city of Winsted, Connecicut.  It has operated since the year 1862 and continues to provide fire suppression, rescue, emergency, and training services to the town and its surrounding area.
+			</description>
+			<contribution>
+				Served on the Winsted Volunteer Fire Department as both a firefighter and lieutenant officer between the years of 2005 and 2016.  		
+			</contribution>
+			<contribution>
+				Treasurer of the Aerial Ladder (tower) Company
+			</contribution>
+			<contribution>
+				Was lead person in charge of the "Junior" firefighter program, a Boy Scouts of America (BSA) provided service that allows children aged 14-17 to join and train as exterior firefighters, giving them valulable community service skills as well as an understanding of safety.  Many of these children have progressed to become full adult members of the department as well as paid full-time city departments in the area.
+			</contribution>
+		</project>
     </projects>
+ 
 	<credits>
 		<credit>
 			<title>May the source be with you</title>

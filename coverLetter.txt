@@ -1,0 +1,8 @@
+I am an application developer, system programmer, and data warehouse designer in a large corporate healthcare environment. My independent and creative thinking has allowed me to be the kind of employee who is happy to help any facet of the business with a focus on the bigger picture always at hand. In addition to being highly able to work remotely, I am also very much looking to relocate and can do so within a matter of a few weeks notice. 
+
+Particularly interested in large data-set processing, system resource management, and task-management/process development. I am always eager to be involved in ETL opportunities that flex and challenge my attention to detail, pattern recognition, and ability to recognize potential for efficiency in both code and organizational processes. I have extensive experience in the project and software development life cycles of requirements gathering, code/test/debug, and production implementation.
+
+Never afraid to learn new skills, languages, or to ask questions where I feel I can provide input and potential. An attention to detail in safety, patient and customer alike, as well as financial impact is a facet of my programming I take great pride in. 
+
+In addition to my professional career, I take great pride in my contributions to a few of the Free and Open Source projects available on the internet. One project of note is Taskwarrior (http://www.taskwarrior.org); contributions include bug repair, documentation, and feature additions. This is a tool that I use on a day-to-day basis and as such, it feels nice to give back to the community and provide some code that I know is used by many people. 
+

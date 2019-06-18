@@ -224,7 +224,7 @@
 	</experience>
     <projects>
 		<project>
-            <name>VICTR - BioVU & Synthetic Deriverative</name>
+            <name>VICTR - BioVU + Synthetic Deriverative</name>
 			<date>2017-11-07</date>
 			<link>https://victr.vanderbilt.edu/pub/biovu/</link>
 			<icon>./icons/victr.gif</icon>

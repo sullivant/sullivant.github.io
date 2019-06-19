@@ -293,7 +293,7 @@
       </xsl:if>
 
       <xsl:if test="link">
-        <p class="homepage"><a href="{link}" target="_blank"><i class="tiny material-icons">assignment</i> <xsl:value-of select="link"/></a></p>
+        <p class="homepage"><a href="{link}" target="_blank"><i class="tiny material-icons">insert_link</i> <xsl:value-of select="link"/></a></p>
       </xsl:if>
 
       <xsl:if test="email">
@@ -311,7 +311,7 @@
       </xsl:if>
 
       <xsl:if test="tagline">
-          <p class="homepage"><i class="tiny material-icons">insert_link</i> <xsl:value-of select="tagline"/></p>
+          <p class="homepage"><i class="tiny material-icons">assignment</i> <xsl:value-of select="tagline"/></p>
       </xsl:if>
     </div>
   </xsl:template>

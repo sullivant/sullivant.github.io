@@ -309,6 +309,10 @@
           </xsl:if>
         </p>
       </xsl:if>
+
+      <xsl:if test="tagline">
+          <p class="homepage"><i class="tiny material-icons">insert_link</i> <xsl:value-of select="tagline"/></p>
+      </xsl:if>
     </div>
   </xsl:template>
 </xsl:stylesheet>

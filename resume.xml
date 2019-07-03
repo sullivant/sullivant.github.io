@@ -84,6 +84,7 @@
 					</detail>
                     <detail>
                         Developed threaded sprint-boot java application to extract data from the EPIC Clarity (EHR) system and import into the target research Netezza system.  This involved discussion and planning with members of outside teams, on the Health IT side as well as systems support and security teams.  A specific challenge of this application was the amount of Clarity data there is to extract; our current needs involve roughly 200 source tables, some with over 500 million records.  Review and development of the application resulted in software that is threaded, involves reporting to a dashboard, and runs via multiple schedules, configured via control table.  The tables that extract on a daily basis (about 150) perform the entire extract process in under 45 minutes.  This is an improvement over the prior method of pulling data sequentially; the prior method took well over 3 hours per day.
+                    </detail>
                 </details>
             </role>
         </company>

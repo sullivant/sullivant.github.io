@@ -175,10 +175,19 @@
                 </description>
                 <details>
                     <detail>
-                        Developed pendant/controller communication methods and protocols based on the TCP/IP standards.  This involved sourcing, configuring, and developing for a serial-to-ethernet device to communicate with the pendants i/o and ensure that serial data can be "pivoted" into proper packet lenghts with enough command information to be reliably translated back from packet form into serial data on the controller to be read by the microcontroller there.
+                        Developed pendant/controller communication methods and protocols based on the TCP/IP standards.  This involved sourcing, configuring, and developing for a serial-to-ethernet device to communicate with the pendants i/o and ensure that serial data can be "pivoted" into proper packet lengths with enough command information to be reliably translated back from packet form into serial data on the controller to be read by the microcontroller there.
                     </detail>
                     <detail>
                         Continued work on PID tuning of the weld head systems to ensure the slight differences between what was requested in a button press on the pendant resulted in an acceptable physical action on the weld head.
+                    </detail>
+                    <detail>
+                        Provided technical support for systems and sales-staff when they were on-site.  Provided detailed instruction and documentation related to the proper update and troubleshooting of devices.
+                    </detail>
+                    <detail>
+                        Worked with the embedded electronics developers and design teams in all phases of the project lifecycles, with attention to detail and discussion regarding new features, product lines, and developments.
+                    </detail>
+                    <detail>
+                        Administered the Windows and SQL based inventory systems, file shares, and backup solutions. 
                     </detail>
                 </details>
             </role>

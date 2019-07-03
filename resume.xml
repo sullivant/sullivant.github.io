@@ -305,6 +305,7 @@
 		</project>
         <project>
             <name>Hobbies: Home Automation with Home Assistant and MQTT over z-wave/zigbee</name>
+			<date>2018-01-01</date>
             <link>https://www.home-assistant.io/</link>
             <icon>./icons/resuml.svg</icon>
             <tags>
@@ -322,6 +323,7 @@
         </project>
         <project>
             <name>Hobbies: Open Source community involvement</name>
+			<date>2019-01-01</date>
             <link>https://www.github.com/sullivant/</link>
             <icon>./icons/resuml.svg</icon>
             <tags>

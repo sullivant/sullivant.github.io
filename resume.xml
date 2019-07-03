@@ -303,6 +303,23 @@
 				Designed and contributed to the implementation of a methodology to include EPIC's healthcare data as a source for the systems used to support the BioVU databank.  This included sourcing data from Clarity in a fashion that would allow for continued ingestion of patient data and demographics after the cutover from Star (legacy) to EPIC.
 			</contribution>
 		</project>
+        <project>
+            <name>Hobbies: Home Automation with Home Assistant and MQTT over z-wave/zigbee</name>
+            <link>https://www.home-assistant.io/</link>
+            <icon>./icons/resuml.svg</icon>
+            <tags>
+                <tag>automation</tag>
+                <tag>networking</tag>
+                <tag>zwave</tag>
+                <tag>zibgee</tag>
+                <tag>raspberry pi</tag>
+                <tag>python</tag>
+                <tag>wireless</tag>
+            </tag>
+            <description>
+                A personal hobby project involved installing and updating a home automation system with a front-end dashboard.  This system allowed for control of standard devices like lights but also allowed for interaction via sensors such as door open/close and entry motion sensors.  Additionally, common activities like commuting traffic and weather patterns were included in a way that allowed for consistent and easy day-to-day usage; if rain was expected, a notice was sent via text or slack to my device.  When my device leaves the work area, it notifies myself and others of my expected commute time home.  Devices inside the house were configured to connect via z-wave or zibgee and provided data over small MQTT system messages.
+            </description>
+        </project>
     </projects>
 	<credits>
 		<credit>

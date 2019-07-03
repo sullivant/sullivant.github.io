@@ -74,7 +74,7 @@
                         Key developer in project mangement lead requests for eccentric and specific data "ETL" (Extract Transform Load) requests.  This often involves discussing and fully understanding source data systems, how they are accessed, translated, and will work with our target database schema (OMOP).   Always eager to learn new and intersting methods for improving both technical systems, but also the potential for process/workflow improvement at the employee level.  No stranger to visting departments and labs to better understand how the "machine" works.
                     </detail>
                     <detail>
-                        Instrumental in the decision and implementation to source warehouse data from the newly installed EPIC Healthcare system (Clarity).  This required working with teams across the organization to understand how EPIC would be configured and how we, as a team, would have to react to these changes in order to maintain our steam stream of healthcare data to support research needs.  This included writing an application (Java) to extract needed tables from EPIC's Clarity database, shape the data, and load into our target Netezza system.  This process included attention to the speed at which we could extract data, with the final result being a multi-threaded Spring Boot java application, pipeline changes on the Linux servers, and working with a front-end team to design a dashboard to provide day-to-day system statistics.
+                        Instrumental in the decision and implementation to source warehouse data from the newly installed EPIC Healthcare system (Clarity).  This required working with teams across the organization to understand how EPIC would be configured and how we, as a team, would have to react to these changes in order to maintain our steam stream of healthcare data to support research needs.  This included writing an application (Java) to extract needed tables from EPIC's Clarity database, shape the data, and load into our target Netezza system.  This process included attention to the speed at which we could extract data, with the final result being a multi-threaded Spring Boot java application, pipeline changes on the Linux servers, and working with a front-end team to design a dashboard to provide day-to-day system statistics (see below for detail).
                     </detail>
 					<detail>
 						Directly collaborate with product management and engineering/development team members to prioritize requests into the Assembla ticketing workflow via an impact assessment.
@@ -82,6 +82,8 @@
 					<detail>
 						Conduct sprint forecasting assessment in order to appropriately develop actionable and achievable project schedules.
 					</detail>
+                    <detail>
+                        Developed threaded sprint-boot java application to extract data from the EPIC Clarity (EHR) system and import into the target research Netezza system.  This involved discussion and planning with members of outside teams, on the Health IT side as well as systems support and security teams.  A specific challenge of this application was the amount of Clarity data there is to extract; our current needs involve roughly 200 source tables, some with over 500 million records.  Review and development of the application resulted in software that is threaded, involves reporting to a dashboard, and runs via multiple schedules, configured via control table.  The tables that extract on a daily basis (about 150) perform the entire extract process in under 45 minutes.  This is an improvement over the prior method of pulling data sequentially; the prior method took well over 3 hours per day.
                 </details>
             </role>
         </company>
@@ -187,7 +189,7 @@
                         Worked with the embedded electronics developers and design teams in all phases of the project lifecycles, with attention to detail and discussion regarding new features, product lines, and developments.
                     </detail>
                     <detail>
-                        Administered the Windows and SQL based inventory systems, file shares, and backup solutions. 
+                        Administered the Windows and SQL based inventory systems, file shares, and backup solutions.
                     </detail>
                 </details>
             </role>
@@ -213,6 +215,14 @@
                 <description>
                     Network troubleshooting, support, and maintenance. Internet Service Provider customer support.
                 </description>
+                <details>
+                    <detail>
+                        Designed, maintained, and supported system installs at all levels for both individual clients and larger scale local businesses.
+                    </detail>
+                    <detail>
+                        Worked with vendors and local authorities for the install of wide-area network (WAN) and wifi systems.
+                    </detail>
+                </details>
             </role>
         </company>
         <company>

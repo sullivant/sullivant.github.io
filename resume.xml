@@ -4,8 +4,8 @@
 	<demographics>
 		<name>Thomas Sullivan</name>
 		<title>Software Developer</title>
-		<address>Nashville, TN, United States</address>
-        <link>https://sullivant.github.io/</link>
+		<address>Connecticut, United States</address>
+    <link>https://sullivanscientific.com/</link>
 		<email>sullivan.t@gmail.com</email>
         <tagline>References available on request</tagline>
 		<crypto>
@@ -28,6 +28,7 @@
             <tag>Clarity</tag>
             <tag>Hyperspace</tag>
             <tag>bash</tag>
+            <tag>motion control</tag>
 			<tag>perl</tag>
 			<tag>java</tag>
             <tag>ruby</tag>
@@ -40,6 +41,51 @@
 	</keywords>
     <experience>
         <company>
+            <name>Protedyne</name>
+            <link>http://www.protedyne.com</link>
+			<icon>./icons/resuml.svg</icon>
+            <role>
+                <title>Software Engineer</title>
+                <tenure>
+                    <start>2019-09-16</start>
+                </tenure>
+                <tags>
+                    <tag>Java</tag>
+                    <tag>Bash</tag>
+                    <tag>SQL</tag>
+                    <tag>Maven</tag>
+                    <tag>SCM</tag>
+                    <tag>Modbus</tag>
+                    <tag>Embedded devices</tag>
+                    <tag>Motion Control</tag>
+                    <tag>Networking</tag>
+                    <tag>Server administration</tag>
+                </tags>
+                <description>
+                  Lorem Ipsum
+                </description>
+                <details>
+                    <detail>
+                      Lorem Ipsum
+                    </detail>
+                    <detail>
+                        Continued work on PID tuning of the weld head systems to ensure the slight differences between what was requested in a button press on the pendant resulted in an acceptable physical action on the weld head.
+                    </detail>
+                    <detail>
+                        Provided technical support for systems and sales-staff when they were on-site.  Provided detailed instruction and documentation related to the proper update and troubleshooting of devices.
+                    </detail>
+                    <detail>
+                        Worked with the embedded electronics developers and design teams in all phases of the project lifecycles, with attention to detail and discussion regarding new features, product lines, and developments.
+                    </detail>
+                    <detail>
+                        Administered the Windows and SQL based inventory systems, file shares, and backup solutions.
+                    </detail>
+                </details>
+            </role>
+        </company>
+
+
+        <company>
 			<name>Vanderbilt University Medical Center</name>
 			<link>https://vumc.org</link>
 			<icon>./icons/victr.gif</icon>
@@ -47,6 +93,7 @@
                 <title>Application Developer</title>
                 <tenure>
                     <start>2016-10-10</start>
+                    <end>2019-09-16</end>
                 </tenure>
                 <tags>
                     <tag>linux</tag>

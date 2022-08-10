@@ -302,10 +302,9 @@
             <link>http://winstedfire.org</link>
             <icon>./icons/resuml.svg</icon>
             <role>
-                <title>Firefighter / Lieutenant</title>
+                <title>Firefighter</title>
                 <tenure>
                     <start>2005-12-01</start>
-                    <end>2016-10-01</end>
                 </tenure>
                 <tags>
                 </tags>

@@ -37,6 +37,8 @@
             <tag>IBM Netezza</tag>
             <tag>pipelines</tag>
             <tag>"Big" data</tag>
+	    <tag>ISO 13485</tag>
+	    <tag>Medical Devices</tag>
 		</technologies>
 	</keywords>
     <experience>
@@ -60,6 +62,7 @@
                     <tag>Motion Control</tag>
                     <tag>Networking</tag>
                     <tag>Server administration</tag>
+		    <tag>Splunk</tag>
                 </tags>
                 <description>
                       Embedded systems software engineer for a large laboratory setting that involves processing of multiple thousand patient samples per night across many dispirate systems.  These systems perform computations, sample handling, data processing, and analysis of patient samples in a manner that relies on efficiency, speed, and integrity to provide the best outcomes for the patient as possible.
@@ -313,13 +316,13 @@
                 </description>
                 <details>
                     <detail>
-                        Served on the Winsted Volunteer Fire Department as both a firefighter and lieutenant officer between the years of 2005 and 2016.
+                        Currently serving on the Winsted Volunteer Fire Department as both a firefighter and lieutenant officer.
                     </detail>
                     <detail>
                         Treasurer of the Aerial Ladder (tower) Company
                     </detail>
                     <detail>
-                        Was lead person in charge of the "Junior" firefighter program, a Boy Scouts of America (BSA) provided service that allows children aged 14-17 to join and train as exterior firefighters, giving them valulable community service skills as well as an understanding of safety.  Many of these children have progressed to become full adult members of the department as well as paid full-time city departments in the area.
+                        AM lead person in charge of the "Junior" firefighter program, a Boy Scouts of America (BSA) provided service that allows children aged 14-17 to join and train as exterior firefighters, giving them valulable community service skills as well as an understanding of safety.  Many of these children have progressed to become full adult members of the department as well as paid full-time city departments in the area.
                     </detail>
                 </details>
             </role>

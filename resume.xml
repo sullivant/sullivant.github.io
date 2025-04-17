@@ -21,6 +21,7 @@
 			<tag>git</tag>
 			<tag>ETL</tag>
             <tag>Informatica Products</tag>
+            <tag>ISO 13485:2016</tag>
             <tag>pipelines</tag>
             <tag>warehouses</tag>
             <tag>OMOP</tag>
@@ -31,14 +32,16 @@
             <tag>motion control</tag>
 			<tag>perl</tag>
 			<tag>java</tag>
-            <tag>ruby</tag>
+      <tag>spring</tag>
+      <tag>TCP/IP</tag>
+      <tag>REST</tag>
             <tag>rust</tag>
             <tag>sql (ms, my*, oracle)</tag>
             <tag>IBM Netezza</tag>
             <tag>pipelines</tag>
             <tag>"Big" data</tag>
-	    <tag>ISO 13485</tag>
 	    <tag>Medical Devices</tag>
+      <tag>Splunk</tag>
 		</technologies>
 	</keywords>
     <experience>
@@ -65,8 +68,7 @@
 		    <tag>Splunk</tag>
                 </tags>
                 <description>
-                      Embedded systems software engineer for a large laboratory setting that involves processing of multiple thousand patient samples per night across many dispirate systems.  These systems perform computations, sample handling, data processing, and analysis of patient samples in a manner that relies on efficiency, speed, and integrity to provide the best outcomes for the patient as possible.
-                </description>
+                      Embedded systems software engineer for a large laboratory setting that involves processing of multiple thousand patient samples per night across many dispirate systems.  These systems perform computations, sample handling, data processing, and analysis of patient samples in a manner that relies on efficiency, speed, and integrity to provide the best outcomes for the patient as possible. Involved in the internal audit preparation for ISO 13485:2016 across the organizational teams.  Works with other facets of the organization to provide application and process improvements, meet service level agreements, and troubleshoot issues.  Introduced and supported through to the production portion of a lifecycle, technologies such as docker and Splunk.                  </description>
                 <details>
                     <detail>
                       Embedded java programmer / engineer with a focus on sample handling, motion control, and data analytics.
@@ -79,6 +81,12 @@
                     </detail>
                     <detail>
                       Implemented systems to better review device logging in a cloud-based manner that allows for customer support and service to be able to proactively consider potential concerns with hardware and software as well as research and debug technical details.
+                    </detail>
+                    <detail>
+                      Works with manufacturing and hardware engineering to create test, diagnostic, and bring-up software improvements for the products in all areas of their lifecycles.
+                    </detail>
+                    <detail>
+Develops core tools and technologies to provide expandable frameworks that meet our department's goals.  These frameworks have been vendor provided or home grown, depending on need, turn around time, and expandability.  
                     </detail>
                 </details>
             </role>

@@ -254,6 +254,61 @@ Develops core tools and technologies to provide expandable frameworks that meet 
             </role>
         </company>
         <company>
+			<name>MCM Systems</name>
+            <link>https://www.mcmsystems.net/</link>
+			<icon>./icons/mcm.gif</icon>
+            <role>
+                <title>Network Engineer</title>
+                <tenure>
+                    <start>2003</start>
+                    <end>2004</end>
+                </tenure>
+                <tags>
+                    <tag>Bash</tag>
+                    <tag>PERL</tag>
+                    <tag>Java</tag>
+                    <tag>Apache</tag>
+                    <tag>Linux</tag>
+                    <tag>SQL Server</tag>
+                </tags>
+                <description>
+                    Network troubleshooting, support, and maintenance. Internet Service Provider customer support.
+                </description>
+                <details>
+                    <detail>
+                        Designed, maintained, and supported system installs at all levels for both individual clients and larger scale local businesses.
+                    </detail>
+                    <detail>
+                        Worked with vendors and local authorities for the install of wide-area network (WAN) and wifi systems.
+                    </detail>
+                </details>
+            </role>
+        </company>
+        <company>
+			<name>Hartford Hospital</name>
+			<link>https://www.hhchealth.org</link>
+			<icon>./icons/hhc.jpg</icon>
+            <role>
+                <title>Senior Programmer / Analyst</title>
+                <tenure>
+                    <start>2001</start>
+                    <end>2003</end>
+                </tenure>
+                <tags>
+                    <tag>PERL</tag>
+                    <tag>SQL</tag>
+                    <tag>Linux</tag>
+                    <tag>Bash</tag>
+                    <tag>Apache</tag>
+                    <tag>mod_perl</tag>
+                    <tag>Java</tag>
+                </tags>
+                <description>
+                    Generated a system wide (5000+ user) intranet report delivery subsystem/framework, used into the present date. Collaborated as a part of the non-clinical revenue cycle team developing top of the line interconnected and distributed systems. Using many languages such as Java, Perl, Ruby, SQL, (Microsoft and Sybase) as well as ETL sytems such as Informatica (Developer II training included) to interface and provide data, metrics, and predictions to the business cycle teams.
+                </description>
+            </role>
+        </company>
+        <company>
             <name>Winsted Volunteer Fire Department</name>
             <link>http://winstedfire.org</link>
             <icon>./icons/resuml.svg</icon>
